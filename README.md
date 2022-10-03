@@ -53,7 +53,7 @@ Nguyen Chi Thanh / PrimeWalkerVN - [@facebook](https://www.facebook.com/thanhy33
 [issues-shield]: https://img.shields.io/github/issues/PrimeWalkerVN/SA-Notes-Highlights?style=for-the-badge
 [issues-url]: https://github.com/PrimeWalkerVN/SA-Notes-Highlights/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/primewalkervn
+[linkedin-url]: https://linkedin.com/in/primewalker
 [product-screenshot]: sa-logo.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
