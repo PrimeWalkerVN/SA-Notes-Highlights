@@ -32,6 +32,7 @@ Sum up highlights and notes thsy I have been researching to memorize the concept
 
 ## Contents
 1. [Scalability](./contents/scalability.md)
+2. [High availability](./contents/high-availability/high-availability.md)
 
 ## Contact
 
