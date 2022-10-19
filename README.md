@@ -1,5 +1,5 @@
 # SA-Notes-Highlights
-Sum up highlights and notes thsy I have been researching to memorize the concept of the interesting things in the software architecture
+Sum up highlights and notes things I have been researching to memorize the concept of the interesting things in the software architecture
 
 <a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
