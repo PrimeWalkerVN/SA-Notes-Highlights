@@ -33,7 +33,7 @@ Sum up highlights and notes things I have been researching to memorize the conce
 ## Contents
 1. [Scalability](./contents/scalability.md)
 2. [High availability](./contents/high-availability/high-availability.md)
-
+3. [Monolithic and Microservices](contents/mono-vs-micro.md)
 ## Contact
 
 Nguyen Chi Thanh / PrimeWalkerVN - [@facebook](https://www.facebook.com/thanhy333y) - primewalkervn@gmail.com
