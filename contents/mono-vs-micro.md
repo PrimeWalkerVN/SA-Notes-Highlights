@@ -1,4 +1,4 @@
-<h1 align="center">Scalability</h1>
+<h1 align="center">Mono vs Micro</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
