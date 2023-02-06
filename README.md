@@ -43,6 +43,7 @@ Nguyen Chi Thanh / PrimeWalkerVN - [@facebook](https://www.facebook.com/thanhy33
 <details>
   <summary>References</summary>
     1. <a href="https://www.educative.io/">Educative</a>
+    2. OpenAI ChatGPT
 </details>
 
 <!-- MARKDOWN LINKS & IMAGES -->
