@@ -35,6 +35,7 @@ Sum up highlights and notes things I have been researching to memorize the conce
 2. [High availability](contents/high-availability/high-availability.md)
 3. [Monolithic and Microservices](contents/mono-vs-micro.md)
 4. [Clean Architecture](contents/clean-architecture.md)
+5. [Event sourcing](contents/event-sourcing.md)
 ## Contact
 
 Nguyen Chi Thanh / PrimeWalkerVN - [@facebook](https://www.facebook.com/thanhy333y) - primewalkervn@gmail.com
